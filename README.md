@@ -7,6 +7,6 @@ so that any future changes in the library may not break this code. You can try u
 - This sketch has been tested with Amazon Echo 3rd Gen, it may or may not work with older or newer ones.
 - You will also need to install [ESPAsyncTCP](https://github.com/me-no-dev/AsyncTCP) library by [me-no-dev](https://github.com/me-no-dev)
 
-# Troubleshooting
+## Troubleshooting
 - Make sure that in your Arduino IDE, Tools > IwIP Variant > is set to 'v2 Higher Bandwidth' otherwise you will not be able to control more than 3 devices.
 
