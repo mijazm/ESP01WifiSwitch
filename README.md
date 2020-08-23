@@ -9,4 +9,5 @@ so that any future changes in the library may not break this code. You can try u
 
 ## Troubleshooting
 - Make sure that in your Arduino IDE, Tools > IwIP Variant > is set to 'v2 Higher Bandwidth' otherwise you will not be able to control more than 3 devices.
+- Uncomment '#DEBUG' line in the sketch to get debug info in the serial monitor, you will only be able to use two devices if you do this.
 
